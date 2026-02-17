@@ -103,4 +103,4 @@ Experience in:
 ## Contact
 - linkedin:
 - Email: Martinezparis844@gmail.com
-- Resume: Paris_Martinez_Resume.pdf
+- Resume: [Download Resume](https://github.com/Marrrty64/Cybersecurity-Portfolito/blob/10763bbffd6a9feb82e348d2872c9cecfb9429a3/Paris_Martinez_Resume.pdf)
