@@ -103,4 +103,4 @@ Experience in:
 ## Contact
 - linkedin:
 - Email: Martinezparis844@gmail.com
-- Resume: [Download Here](Paris_Martinez_Resume_Professional copy)
+- Resume: [Download Here](./Paris_Martinez_Resume_Professional copy)
