@@ -54,13 +54,12 @@ Design and implementaition of a segmented lab envrionment using Virtual Machines
 
 --- 
 ## 02 - Red team Explotiation Simulation
-Full attack lifecycle simulation against a misconfigured database server. 
-- Reconnaissance
-- Enumeration
-- Credential Exploitation
-- Persistence
-- Mitigation and Hardening
-- MITRE ATT&CK mapping included
+Conducted a full attack lifecycle assessment against a misconfigured web and database environment (192.168.220.254), Identifying critical vulnerabilities that resulted in full administrative access to MariaDB via exposed phpMyAdmin.
+- Full attack surface enumeration (Nmap, NSE scripts)
+- Database authentication bypass (blank root password)
+- Privilege analysis and remote root misconfiguration discovery
+- Business impact and remediation reporting
+- [View Full Technical Report](./02_Red_Team_Exploitation)
 
 --- 
 ## 03 - Digital Forensics Investigation
