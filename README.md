@@ -64,6 +64,7 @@ Conducted a full attack lifecycle assessment against a misconfigured web and dat
 - Database authentication bypass (blank root password)
 - Privilege analysis and remote root misconfiguration discovery
 - Business impact and remediation reporting
+
 [View Full Technical Report](./02_Red_Team_Exploitation)
 
 --- 
