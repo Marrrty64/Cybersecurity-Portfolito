@@ -86,7 +86,8 @@ Conducted a full forensic acquisition and registry based investigation of the ID
 
 
 --- 
-## 04 - Threat intelligence Assesment ###### ***(In Progress)***
+## 04 - Threat intelligence Assesment 
+###### ***(In Progress)***
 Analysis Of indicators of Compromise using structure frameworks
 
 - STIX
@@ -94,7 +95,8 @@ Analysis Of indicators of Compromise using structure frameworks
 - OpenIOC
 
 ---
-## 05 - Blue Tram Log Analysis ###### ***(In progress)***
+## 05 - Blue Tram Log Analysis 
+###### ***(In progress)***
 Host and network log analysis identifying anomalous behavior and unathorized activity patterns.
 
 ---
