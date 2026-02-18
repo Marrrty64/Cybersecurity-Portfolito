@@ -44,13 +44,18 @@
 
 # Project Portfolio
 
-## 01 - Home Lab Architecture
-Design and implementaition of a segmented lab envrionment using Virtual Machines.
+## 01 – Target Reconnaissance & Service Enumeration
 
-- VLAN Segmentation
-- Internal Routing 
-- Attach machine vs Target machine
-- Firewall configuration
+Performed passive and active reconnaissance against internal target (192.168.220.113), conducting full port scanning, TLS certificate inspection, service fingerprinting, and application-layer validation.
+
+- ICMP validation and connectivity testing
+- Full TCP port enumeration (65,535 ports)
+- TLS/SSL certificate inspection (OpenSSL)
+- Service fingerprinting (Nmap -sV -sC -O)
+- Web server analysis (Caddy)
+- Application validation (WhatWeb, Netcat)
+
+➡️ [View Full Technical Report](./01_Target_Reconnaissance)
 
 --- 
 ## 02 - Red team Explotiation Simulation
