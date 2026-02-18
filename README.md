@@ -55,7 +55,7 @@ Performed passive and active reconnaissance against internal target (192.168.220
 - Web server analysis (Caddy)
 - Application validation (WhatWeb, Netcat)
 
-➡️ [View Full Technical Report](./01_Target_Reconnaissance)
+[View Full Technical Report](./01_Target_Reconnaissance)
 
 --- 
 ## 02 - Red team Explotiation Simulation
@@ -64,16 +64,25 @@ Conducted a full attack lifecycle assessment against a misconfigured web and dat
 - Database authentication bypass (blank root password)
 - Privilege analysis and remote root misconfiguration discovery
 - Business impact and remediation reporting
-- [View Full Technical Report](./02_Red_Team_Exploitation)
+[View Full Technical Report](./02_Red_Team_Exploitation)
 
 --- 
-## 03 - Digital Forensics Investigation
-Forensic Analysis of Disk Image (.E01).
+## 03 – Digital Forensics Investigation (Elvis Polytech Case)
 
-- Hash Validation
-- Chain of Custody documentation
-- Timeline Analysis
-- Suspicous artifact indentification
+Conducted a full forensic acquisition and registry based investigation of the IDTHEFT1.E01 disk image involving suspected identity theft and illegal digital activity.
+
+- Forensic acquisition using EnCase v21.1
+- Hardware write-blocking via Tableau SATA/IDE Bridge
+- MD5/SHA1 hash verification (0 acquisition errors)
+- Registry hive analysis (SYSTEM, SAM, NTUSER.DAT)
+- User account reconstruction and SID analysis
+- USB device artifact recovery (UBSTOR)
+- Email credential extraction (Protected Storage)
+- Internet activity reconstruction (IE artifacts)
+- Evidence documentation suitable for courtroom presentation
+
+[View Full Case Report](./03_Digital_Forensics_Investigation)
+
 
 --- 
 ## 04 - Threat intelligence Assesment
