@@ -111,10 +111,10 @@ Experience in:
 - Leadership and Mission execution
 
 ---
-# Certicfications
+## Certicfications
 - CompTIA Security+ 701. ***in progress***
 - Google Cybersecurity Certification
-
+- Certified in Cybersecurity (CC) – ISC2, February 2026	- Certification Number - 3518276
 ---
 ## Contact
 - linkedin: (www.linkedin.com/in/paris-martinez-213407221)
